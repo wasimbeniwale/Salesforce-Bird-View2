@@ -9,3 +9,6 @@ Chrome extension to add the Salesforce org's email Deliverability on top bar and
 # Screenshot with Deliverability: No All Emails
 
 ![Screenshot Deliverability: No All Emails](https://github.com/wasimbeniwale/Salesforce-Bird-View2/blob/main/2.jpg?raw=true)
+
+# Install on Chrome/Edge/Chromium
+https://chromewebstore.google.com/detail/salesforce-bird-view/liahampolipgobdjlnceibmfepampakh
